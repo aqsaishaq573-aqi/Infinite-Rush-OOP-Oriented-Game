@@ -321,12 +321,9 @@ Educational university project — free to use and modify for learning purposes.
 ---
 
 ## 📧 Contact
-
-**Ayesha Rauf** — [@ayesha189](https://github.com/ayesha189)
-
-**Project Link:** [https://github.com/ayesha189/Infinite-Rush-OOP-Oriented-Game](https://github.com/ayesha189/Infinite-Rush-OOP-Oriented-Game)
-
----
+Ayesha Rauf — @ayesha189
+Aqsa Ishaq — @aqsaishaq573-aqi
+Project Link: https://github.com/ayesha189/Infinite-Rush-OOP-Oriented-Game
 
 ## ⭐ Support
 
